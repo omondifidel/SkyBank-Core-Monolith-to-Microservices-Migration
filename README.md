@@ -47,4 +47,11 @@ Access the Dashboard:
 Frontend: http://localhost:80 (or the provided Codespace URL)
 
 Backend API Docs: http://localhost:8000/docs
+## 📸 System in Action
+Here is the system successfully processing transactions and persisting data:
+
+| Feature | Screenshot |
+| :--- | :--- |
+| **Transaction Success** | ![Success](./docs/success.png) |
+| **PostgreSQL Persistence** | ![DB Proof](./docs/db.png) |
 
